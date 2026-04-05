@@ -21,6 +21,6 @@ Hi, I’m a passionate builder and problem-solver currently pursuing my degree, 
  செயல் வெற்றியாக மாறும்."        Action becomes success."
 ```
 ---
-[![](https://visitcount.itsvg.in/api?id=hariprasath-dlh&icon=4&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=hariprasath-dlh&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
