@@ -22,8 +22,9 @@ Hi, I’m a passionate builder and problem-solver currently pursuing my degree, 
 ```
 ---
 <h2 align="center">👀 Profile Visitors</h2>
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hariprasath-dlh&label=Visitors&color=12&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=hariprasath-dlh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
