@@ -1,3 +1,6 @@
+<img width="1344" height="768" alt="hariprasath" src="https://github.com/user-attachments/assets/5f928e81-8c88-423e-90ab-d5c328807b6e" />
+
+
 # 💫 About Me:
 Hi, I’m a passionate builder and problem-solver currently pursuing my degree, focused on creating real-world applications that actually make a difference.<br><br>I’m the kind of person who learns by building. Instead of just following tutorials, I take ideas, turn them into products, improve them continuously, and push them closer to real-world usability. I stay active, experiment with new tools, and always look for ways to make my projects more practical and impactful.<br><br>I’ve worked on several high-impact projects:<br><br>**ParkLynk: Urban Drive** – a smart parking marketplace that connects drivers with unused residential parking spaces. I focused on building a smooth user experience along with real-time features like live location and map integration, aiming to solve a genuine urban problem.<br><br>**DocuSphere** – a document-focused platform designed to simplify how users manage and interact with important files. This project helped me think deeply about usability, structured workflows, and building clean, efficient interfaces.<br><br>**AutoPrep AI** – an AI-powered preparation tool built to help users get ready for real-world scenarios more effectively. Through this, I explored how AI can be integrated into practical applications that assist users in a meaningful way.<br><br>**n8n Automation Projects** – I’ve also worked on workflow automation using n8n, creating systems that reduce manual effort and improve efficiency. This gave me hands-on experience in automation logic, integrations, and building smart workflows.<br><br>Through these projects, I’ve learned how to:<br><br>* Build and connect full-stack applications<br>* Design user-friendly and intuitive interfaces<br>* Work with real-time data and APIs<br>* Integrate AI into practical use cases<br>* Automate workflows to solve everyday problems<br><br>I’m focused on building projects that stand out — not just technically, but in how useful and usable they are in real life. Every project I work on is a step toward becoming a better developer and creating something meaningful.<br><br>If you’re here, feel free to explore my work — it reflects my journey, consistency, and the effort I put into building things that matter.<br>
 
@@ -13,6 +16,14 @@ Hi, I’m a passionate builder and problem-solver currently pursuing my degree, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasath-dlh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+### ✍️Quote
+```
+"சிந்தனை கனவாக மாறும்           "Thought becomes a dream
+கனவு செயலாக மாறும்                Dreams become action
+செயல் வெற்றியாக மாறும்."           Action becomes success."
+```
+
 [![](https://visitcount.itsvg.in/api?id=hariprasath-dlh&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
