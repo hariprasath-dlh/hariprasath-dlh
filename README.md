@@ -27,6 +27,4 @@
 செயல் வெற்றியாக மாறும்."           Action becomes success."
 ```
 
-[![](https://visitcount.itsvg.in/api?id=hariprasath-dlh&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
