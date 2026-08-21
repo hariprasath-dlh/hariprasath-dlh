@@ -23,25 +23,23 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Connect With Me
 
-### 🌐 Connect With Me
-
 <a href="https://www.instagram.com/hariprasath_dlh">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/hariprasath-lv/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://hariprasath-dlh.github.io/hariprasath-portfolio/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Portfolio">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:hariprasathdlhdlh@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email">
 </a>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
