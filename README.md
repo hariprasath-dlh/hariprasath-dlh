@@ -3,12 +3,13 @@
  </centre>
 
 <img width="300" align="left" height="125" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
+<right>
 ➤ 🤖 AI & Data Science student who enjoys building practical solutions through real-world projects.<br>
-➤ 💻 Worked on **AI-powered applications, RAG systems, full-stack web projects, and workflow automation**.<br>
-➤ 🚀 Interested in **Web Development, Full-Stack Development, AI, and AI Automation**.<br>
+➤ 💻 Worked on AI-powered applications, RAG systems, full-stack web projects, and workflow automation.<br>
+➤ 🚀 Interested in Web Development, Full-Stack Development, AI, and AI Automation.<br>
 ➤ 🛠️ I enjoy turning ideas into working products, experimenting with technologies, and solving real-world problems.<br>
 ➤ 🌱 Currently focused on improving my development skills, building meaningful <br> 
-      projects, and growing as a **Software Developer**.<br>
+      projects, and growing as a Software Developer.<br> </right>
 
 
 ## 🌐 Socials:
