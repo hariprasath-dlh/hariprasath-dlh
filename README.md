@@ -1,11 +1,12 @@
 <centre><img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/03d2cf6a-87e1-4d50-9bd6-5648e1f31e51" /> </centre>
 
+<img width="400" align="right" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
 # 💫 About Me:
-<left> I’m an AI & Data Science student who enjoys building practical solutions and learning through real project experience.
-I’ve worked on AI-powered applications, full-stack web projects, RAG systems, and workflow automation.
-My main interests are Web Development, Full-Stack Development, AI, and AI Automation.
-I enjoy turning ideas into working products, experimenting with new technologies, and solving real-world problems.
-Currently, I’m focused on strengthening my skills, building better projects, and growing as a software developer. </left>
+I’m an AI & Data Science student who enjoys building practical solutions and learning through real project experience.<br>
+I’ve worked on AI-powered applications, full-stack web projects, RAG systems, and workflow automation.<br>
+My main interests are Web Development, Full-Stack Development, AI, and AI Automation.<br>
+I enjoy turning ideas into working products, experimenting with new technologies, and solving real-world problems.<br>
+Currently, I’m focused on strengthening my skills, building better projects, and growing as a software developer.<br>
 
 
 ## 🌐 Socials:
@@ -28,5 +29,5 @@ Currently, I’m focused on strengthening my skills, building better projects, a
 செயல் வெற்றியாக மாறும்."           Action becomes success."
 ```
 
-<img width="400" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
+
 
