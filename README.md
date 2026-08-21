@@ -2,7 +2,7 @@
 
  </centre>
 
-<img width="400" align="left" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
+<img width="300" align="left" height="125" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
 ➤ 🤖 AI & Data Science student who enjoys building practical solutions through real-world projects.<br>
 ➤ 💻 Worked on **AI-powered applications, RAG systems, full-stack web projects, and workflow automation**.<br>
 ➤ 🚀 Interested in **Web Development, Full-Stack Development, AI, and AI Automation**.<br>
