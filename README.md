@@ -24,4 +24,5 @@
 செயல் வெற்றியாக மாறும்."           Action becomes success."
 ```
 
+<img width="400" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
 
