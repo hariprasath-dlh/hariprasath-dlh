@@ -20,8 +20,8 @@
 </td>
 </tr>
 </table>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🌐 Connect With Me
+<br>
+<centre>### 🌐 Connect With Me
 
 <a href="https://www.instagram.com/hariprasath_dlh">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram">
@@ -40,8 +40,7 @@
 
 <a href="mailto:hariprasathdlhdlh@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email">
-</a>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</a> </centre>
 
 
 
