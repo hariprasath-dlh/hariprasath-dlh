@@ -1,4 +1,5 @@
-<centre> <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9d7b50da-1b0e-484e-9ce1-a1f5f09b4356" />
+<centre> <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d59bdc48-6b3b-49d1-a70e-3794327394ab" />
+
  </centre>
 
 <img width="400" align="left" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
