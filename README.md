@@ -1,7 +1,11 @@
 <centre><img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/03d2cf6a-87e1-4d50-9bd6-5648e1f31e51" /> </centre>
 
 # 💫 About Me:
-## 👋 Hi, I'm Hariprasath L V<br><br>I'm a Artificial intelligence and Data Science student  who enjoys building practical solutions to real-world problems through technology.<br><br>My interests include Web Development, Artificial Intelligence, UI/UX Design, and Software Engineering. I love turning ideas into working products and continuously improving my skills by building projects, participating in hackathons, and exploring new technologies.<br><br>Some of the projects I've worked on include AI-powered applications, academic documentation automation tools, and platforms designed to simplify everyday tasks for students and users. Through these projects, I've gained experience in problem-solving, teamwork, project development, and creating user-focused solutions.<br><br>Currently, I'm focused on strengthening my development skills, learning industry best practices, and preparing for software engineering opportunities where I can contribute, learn, and grow as a developer.<br><br>I believe that consistency, curiosity, and continuous learning are the keys to becoming a better engineer every day.<br><br>🚀 Always learning, building, and improving.<br>
+<left> I’m an AI & Data Science student who enjoys building practical solutions and learning through real project experience.
+I’ve worked on AI-powered applications, full-stack web projects, RAG systems, and workflow automation.
+My main interests are Web Development, Full-Stack Development, AI, and AI Automation.
+I enjoy turning ideas into working products, experimenting with new technologies, and solving real-world problems.
+Currently, I’m focused on strengthening my skills, building better projects, and growing as a software developer. </left>
 
 
 ## 🌐 Socials:
