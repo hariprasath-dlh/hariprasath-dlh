@@ -20,11 +20,25 @@
 </td>
 </tr>
 </table>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🌐 Connect With Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/hariprasath_dlh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/hariprasath-lv/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Haridlh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32169839) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariprasathdlhdlh@gmail.com) 
-
+<a href="https://www.instagram.com/hariprasath_dlh">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=42&bg=%23E4405F&theme=light&shape=rect&animation=pulse" width="42" height="42" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/hariprasath-lv/">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=42&bg=%230077B5&theme=light&shape=rect&animation=glow" width="42" height="42" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://hariprasath-dlh.github.io/hariprasath-portfolio/">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=portfolio&size=42&bg=%23000000&theme=dark&shape=rect&animation=bounce" width="42" height="42" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:hariprasathdlhdlh@gmail.com">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=email&size=42&bg=%23EA4335&theme=light&shape=rect&animation=pulse" width="42" height="42" alt="Email"/>
+</a>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
