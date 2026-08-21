@@ -23,20 +23,25 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <a href="https://www.instagram.com/hariprasath_dlh">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=42&bg=%23E4405F&theme=light&shape=rect&animation=pulse" width="42" height="42" alt="Instagram"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram">
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/hariprasath-lv/">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=42&bg=%230077B5&theme=light&shape=rect&animation=glow" width="42" height="42" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="https://hariprasath-dlh.github.io/hariprasath-portfolio/">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=portfolio&size=42&bg=%23000000&theme=dark&shape=rect&animation=bounce" width="42" height="42" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Portfolio">
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="mailto:hariprasathdlhdlh@gmail.com">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=email&size=42&bg=%23EA4335&theme=light&shape=rect&animation=pulse" width="42" height="42" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email">
 </a>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
