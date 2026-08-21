@@ -1,4 +1,5 @@
-<centre><img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/03d2cf6a-87e1-4d50-9bd6-5648e1f31e51" /> </centre>
+<centre> <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/9d7b50da-1b0e-484e-9ce1-a1f5f09b4356" />
+ </centre>
 
 <img width="400" align="left" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
 ➤ 🤖 AI & Data Science student who enjoys building practical solutions through real-world projects.<br>
