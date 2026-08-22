@@ -42,6 +42,25 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email">
 </a> </centre>
 
+<h2 align="center">🧰 <strong>SKILLS</strong></h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,n8n,canva,figma,lightroom&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render,netlify&perline=3" />
+</p>
+
+
 
 ## 📊 GitHub Contributions
 
