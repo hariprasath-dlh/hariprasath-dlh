@@ -60,6 +60,56 @@
   <img src="https://skillicons.dev/icons?i=vercel,render,netlify&perline=3" />
 </p>
 
+## 🚀 TOP PROJECTS
+
+<details>
+<summary><strong>🤖 RootMind — Autonomous Multi-Agent AIOps Platform</strong></summary>
+
+➤ <strong>What:</strong> An autonomous AIOps platform for detecting anomalies, investigating root causes, and assisting with incident remediation.<br>
+➤ <strong>Problem Solved:</strong> Reduces manual effort in system monitoring, debugging, root-cause analysis, and incident response.<br>
+➤ <strong>Architecture:</strong> Multi-agent workflow using LangGraph with anomaly detection, RAG-based investigation, code patch suggestions, and automated post-mortems.<br>
+➤ <strong>AI Stack:</strong> LangGraph, Isolation Forest, Qdrant, Groq Llama 3, RAG, GitHub API, and Slack integration.<br>
+➤ <strong>Metrics:</strong> Anomaly detection precision, RCA accuracy, retrieval relevance, remediation success rate, and MTTR reduction.<br>
+➤ <strong>Key Feature:</strong> Connects monitoring → root-cause analysis → patch suggestion → developer notification → post-mortem generation.<br>
+
+</details>
+
+<details>
+<summary><strong>🧠 Intellexa AI — AI-Powered Intelligent Application</strong></summary>
+
+➤ <strong>What:</strong> An AI-powered application designed to process user inputs and generate useful, context-aware results.<br>
+➤ <strong>Problem Solved:</strong> Simplifies information processing by combining AI capabilities with an application-focused user experience.<br>
+➤ <strong>Architecture:</strong> User interaction → prompt processing → AI inference → structured response generation.<br>
+➤ <strong>AI Stack:</strong> Python, LLMs, Prompt Engineering, RAG concepts, REST APIs, and modern web technologies.<br>
+➤ <strong>Metrics:</strong> Response accuracy, relevance, latency, token efficiency, task completion rate, and user satisfaction.<br>
+➤ <strong>Key Feature:</strong> Converts natural-language requests into practical and structured results through an AI-driven workflow.<br>
+
+</details>
+
+<details>
+<summary><strong>📚 DocuSphere — Retrieval-Augmented Document Intelligence</strong></summary>
+
+➤ <strong>What:</strong> A RAG-based document Q&A system for retrieving information and answering questions from uploaded documents.<br>
+➤ <strong>Problem Solved:</strong> Helps users find relevant information from documents without manually searching through large files.<br>
+➤ <strong>Architecture:</strong> Document processing → chunking → embeddings → vector retrieval → context generation → grounded response.<br>
+➤ <strong>AI Stack:</strong> Python, FastAPI, FAISS, SentenceTransformers, RAG, React, and TypeScript.<br>
+➤ <strong>Metrics:</strong> Retrieval Precision@K, Recall@K, answer relevance, grounding accuracy, response latency, and hallucination rate.<br>
+➤ <strong>Key Feature:</strong> Combines semantic search and context-aware generation to provide answers grounded in the uploaded documents.<br>
+
+</details>
+
+<details>
+<summary><strong>⚙️ RepoCraft — Developer-Focused Automation Platform</strong></summary>
+
+➤ <strong>What:</strong> A developer-focused project designed to simplify and automate repository-related development workflows.<br>
+➤ <strong>Problem Solved:</strong> Reduces repetitive repository management and development tasks through automation.<br>
+➤ <strong>Architecture:</strong> <strong>[Add your actual RepoCraft architecture here]</strong>.<br>
+➤ <strong>Tech Stack:</strong> <strong>[Add the actual RepoCraft technologies here]</strong>.<br>
+➤ <strong>Metrics:</strong> <strong>[Add measured metrics such as automation time saved, task success rate, or processing latency]</strong>.<br>
+➤ <strong>Key Feature:</strong> <strong>[Add RepoCraft's main differentiating feature here]</strong>.<br>
+
+</details>
+
 
 
 ## 📊 GitHub Contributions
