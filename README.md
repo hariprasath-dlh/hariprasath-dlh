@@ -21,7 +21,7 @@
 </tr>
 </table>
 <br>
-<centre>### 🌐 Connect With Me
+<centre> <b>🌐Connect With Me</b>
 
 <a href="https://www.instagram.com/hariprasath_dlh">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram">
