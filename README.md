@@ -40,22 +40,73 @@
 
 <h2 align="center">🧰 <strong>SKILLS</strong></h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS">
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,n8n,canva,figma,lightroom&perline=7" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL">
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71" width="48" height="48" alt="n8n">
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC" width="48" height="48" alt="Canva">
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/file-icons:adobe-lightroom.svg?color=%2331A8FF" width="48" height="48" alt="Adobe Lightroom">
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=5" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker">
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render,netlify&perline=3" />
-</p>
-
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel">
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" width="48" height="48" alt="Render">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify">
+    </td>
+  </tr>
+</table>
 ##  TOP PROJECTS
 
 <details>
