@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=5" />
 </p>
 
 <p align="center">
