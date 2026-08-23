@@ -107,7 +107,7 @@
     </td>
   </tr>
 </table>
-##  TOP PROJECTS
+  <strong>TOP PROJECTS</strong>
 
 <details>
   <summary><strong>🤖 RootMind — Autonomous Multi-Agent AIOps Platform</strong></summary>
