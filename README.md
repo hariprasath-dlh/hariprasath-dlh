@@ -4,9 +4,6 @@
 
 <table border="0">
   <tr>
-    <td width="32%" valign="top">
-      <img width="300" height="225" alt="hey_geminii_want_you_to_mak" src="https://github.com/user-attachments/assets/ff9e4b6d-d355-4dde-8f87-9766e552c2f3" />
-    </td>
     <td width="68%" valign="top">
       ➤ 🤖 AI & Data Science student who enjoys building practical solutions through real-world projects.<br>
       ➤ 💻 Worked on **AI-powered applications, RAG systems, full-stack web projects, and workflow automation**.<br>
