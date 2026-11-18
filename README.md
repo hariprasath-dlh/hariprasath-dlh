@@ -6,11 +6,14 @@
 <table border="0">
   <tr>
     <td width="68%" valign="top">
-      ➤ 🤖 AI & Data Science student who enjoys building practical solutions through real-world projects.<br>
-      ➤ 💻 Worked on **AI-powered applications, RAG systems, full-stack web projects, and workflow automation**.<br>
-       🚀 Interested in **Web Development, Full-Stack Development, AI, and AI Automation**.<br>
-      ➤ 🛠️ I enjoy turning ideas into working products and solving real-world problems through technology.<br>
-      ➤  Currently focused on improving my skills, building meaningful projects, and growing as a **Software Developer**.<br>
+      <div align="justify">
+        <p>
+          Hi, I’m <strong>Hari Prasath LV</strong>, an <strong>AI & DS graduate</strong> focused on developing practical software solutions and AI-driven applications. I work across frontend and backend development, using <strong>Java, Python, React, JavaScript, and SQL</strong> to translate requirements into functional, maintainable products.
+        </p>
+        <p>
+          My projects involve <strong>multi-agent systems, retrieval-augmented applications, and intelligent workflows</strong>, with an emphasis on usability, validation, and reliable execution. I aim to contribute by understanding product requirements, delivering well-structured implementations, and continuously improving software through testing, problem-solving, and thoughtful development.
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -71,10 +74,10 @@
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n">
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="48" height="48" alt="Canva">
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="48" height="48" alt="Adobe Lightroom">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-lightroom.svg" width="48" height="48" alt="Adobe Lightroom">
     </td>
   </tr>
 
@@ -84,6 +87,9 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code">
@@ -105,50 +111,52 @@
     </td>
   </tr>
 </table>
-  <strong>TOP PROJECTS</strong>
+
+<strong>TOP PROJECTS</strong>
 
 <details>
-  <summary><strong>🤖 RootMind — Autonomous Multi-Agent AIOps Platform</strong></summary>
-  
-  ➤ <strong>What:</strong> An autonomous AIOps platform for detecting anomalies, investigating root causes, and assisting with incident remediation.<br>
-  ➤ <strong>Problem Solved:</strong> Reduces manual effort in system monitoring, debugging, root-cause analysis, and incident response.<br>
-  ➤ <strong>Architecture:</strong> Multi-agent workflow using LangGraph with anomaly detection, RAG-based investigation, code patch suggestions, and automated post-mortems.<br>
-   <strong>AI Stack:</strong> LangGraph, Isolation Forest, Qdrant, Groq Llama 3, RAG, GitHub API, and Slack integration.<br>
-  ➤ <strong>Metrics:</strong> Anomaly detection precision, RCA accuracy, retrieval relevance, remediation success rate, and MTTR reduction.<br>
-  ➤ <strong>Key Feature:</strong> Connects monitoring → root-cause analysis → patch suggestion → developer notification → post-mortem generation.<br>
+  <summary><strong>🛡️ AgentGuard — Runtime Governance & Security Platform for Autonomous AI Agents</strong></summary>
+  <br>
+  <strong>Tech Stack:</strong> Python, FastAPI, React, PostgreSQL, Redis, Playwright, Pytest, GitHub Actions.
+  <br><br>
+  <strong>Problem Addressed:</strong> Autonomous AI agents can execute tool calls without sufficient runtime controls, creating risks involving unauthorized access, resource consumption, high-risk operations, and auditability.
+  <br><br>
+  <ul>
+    <li>Designed a <strong>framework-agnostic governance layer</strong> that intercepts AI agent tool requests before execution and evaluates them against role-based access controls, risk policies, rate limits, and resource budgets.</li>
+    <li>Implemented a <strong>deterministic policy evaluation engine</strong> with <code>ALLOW</code>, <code>DENY</code>, and <code>PENDING</code> decisions, incorporating human approval workflows for high-risk operations and SHA-256 hash-chained audit records.</li>
+    <li>Developed a <strong>full-stack administration dashboard</strong> using React and FastAPI, backed by PostgreSQL and Redis, to manage agents, permissions, policies, approval requests, and audit records.</li>
+    <li>Validated backend, API, database, and SDK workflows using <strong>Pytest</strong> and automated authentication, role-based access, and dashboard scenarios using <strong>Playwright</strong>; integrated <strong>GitHub Actions</strong> for continuous testing and build validation.</li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong> Intellexa AI — AI-Powered Intelligent Application</strong></summary>
-  
-   <strong>What:</strong> An AI-powered application designed to process user inputs and generate useful, context-aware results.<br>
-  ➤ <strong>Problem Solved:</strong> Simplifies information processing by combining AI capabilities with an application-focused user experience.<br>
-  ➤ <strong>Architecture:</strong> User interaction → prompt processing → AI inference → structured response generation.<br>
-  ➤ <strong>AI Stack:</strong> Python, LLMs, Prompt Engineering, RAG concepts, REST APIs, and modern web technologies.<br>
-  ➤ <strong>Metrics:</strong> Response accuracy, relevance, latency, token efficiency, task completion rate, and user satisfaction.<br>
-  ➤ <strong>Key Feature:</strong> Converts natural-language requests into practical and structured results through an AI-driven workflow.<br>
+  <summary><strong>🤖 Intellexa AI — Multi-Agent Research & Intelligence System</strong></summary>
+  <br>
+  <strong>Tech Stack:</strong> React, Node.js, Express.js, OpenRouter API, Serper.dev.
+  <br><br>
+  <strong>Problem Addressed:</strong> Conventional AI chatbot systems often produce unstructured responses without systematically assessing source credibility, identifying conflicting information, or presenting research findings in an organized manner.
+  <br><br>
+  <ul>
+    <li>Designed a <strong>multi-agent research architecture</strong> that divides complex user queries into specialized stages, including query understanding, information retrieval, filtering, credibility assessment, contradiction detection, and insight generation.</li>
+    <li>Integrated <strong>Serper.dev</strong> for real-time web research and <strong>OpenRouter</strong> for LLM-powered processing, enabling agents to retrieve, evaluate, and synthesize information from multiple sources.</li>
+    <li>Developed <strong>REST API services</strong> using Node.js and Express.js to coordinate agent execution, process research requests, and manage communication between the frontend and backend.</li>
+    <li>Built an <strong>interactive React dashboard</strong> that presents structured research results, including direct answers, key insights, and critical factors; validated API communication and endpoint behaviour using <strong>Thunder Client</strong>.</li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong>📚 DocuSphere — Retrieval-Augmented Document Intelligence</strong></summary>
-  
-  ➤ <strong>What:</strong> A RAG-based document Q&A system for retrieving information and answering questions from uploaded documents.<br>
-  ➤ <strong>Problem Solved:</strong> Helps users find relevant information from documents without manually searching through large files.<br>
-  ➤ <strong>Architecture:</strong> Document processing → chunking → embeddings → vector retrieval → context generation → grounded response.<br>
-  ➤ <strong>AI Stack:</strong> Python, FastAPI, FAISS, SentenceTransformers, RAG, React, and TypeScript.<br>
-  ➤ <strong>Metrics:</strong> Retrieval Precision@K, Recall@K, answer relevance, grounding accuracy, response latency, and hallucination rate.<br>
-  ➤ <strong>Key Feature:</strong> Combines semantic search and context-aware generation to provide answers grounded in the uploaded documents.<br>
-</details>
-
-<details>
-  <summary><strong>⚙️ RepoCraft — Developer-Focused Automation Platform</strong></summary>
-  
-  ➤ <strong>What:</strong> A developer-focused project designed to simplify and automate repository-related development workflows.<br>
-  ➤ <strong>Problem Solved:</strong> Reduces repetitive repository management and development tasks through automation.<br>
-  ➤ <strong>Architecture:</strong> <strong>[Add your actual RepoCraft architecture here]</strong>.<br>
-  ➤ <strong>Tech Stack:</strong> <strong>[Add the actual RepoCraft technologies here]</strong>.<br>
-  ➤ <strong>Metrics:</strong> <strong>[Add measured metrics such as automation time saved, task success rate, or processing latency]</strong>.<br>
-  ➤ <strong>Key Feature:</strong> <strong>[Add RepoCraft's main differentiating feature here]</strong>.<br>
+  <summary><strong>⚙️ RootMind — Autonomous Multi-Agent AIOps & Incident Response Platform</strong></summary>
+  <br>
+  <strong>Tech Stack:</strong> Python, FastAPI, LangGraph, Scikit-learn, Groq (Llama 3), Qdrant Cloud, React, SQLite, GitHub API, Slack Webhooks.
+  <br><br>
+  <strong>Problem Addressed:</strong> Traditional incident management requires engineers to manually investigate system telemetry, correlate logs with code changes, identify root causes, and prepare incident documentation, increasing troubleshooting time and operational effort.
+  <br><br>
+  <ul>
+    <li>Developed an <strong>autonomous multi-agent workflow</strong> to analyse infrastructure telemetry, identify abnormal CPU, memory, and latency patterns, and initiate automated incident diagnostics.</li>
+    <li>Integrated Scikit-learn's <strong>Isolation Forest</strong> for anomaly detection and <strong>LangGraph</strong> for agent orchestration, combining <strong>Qdrant-powered Retrieval-Augmented Generation (RAG)</strong> with Groq Llama 3 for code-context retrieval and root cause analysis.</li>
+    <li>Implemented <strong>GitHub API integration</strong> to retrieve repository and commit information, generate context-aware code patch suggestions for review, and produce structured incident post-mortem reports.</li>
+    <li>Developed a <strong>React-based monitoring dashboard</strong> with FastAPI services, SQLite incident persistence, and Slack webhook notifications; covered anomaly detection, root cause analysis, patch generation, and API workflows through backend testing.</li>
+  </ul>
 </details>
 
 ##  GitHub Contributions
@@ -163,4 +171,3 @@
 கனவு செயலாக மாறும்                Dreams become action
 செயல் வெற்றியாக மாறும்."           Action becomes success."
 ```
-
