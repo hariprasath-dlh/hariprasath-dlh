@@ -1,3 +1,4 @@
+
 <center>
   <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d59bdc48-6b3b-49d1-a70e-3794327394ab" />
 </center>
@@ -67,13 +68,13 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL">
     </td>
     <td align="center">
-      <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71" width="48" height="48" alt="n8n">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n">
     </td>
     <td align="center">
-      <img src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC" width="48" height="48" alt="Canva">
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva">
     </td>
     <td align="center">
-      <img src="https://api.iconify.design/file-icons:adobe-lightroom.svg?color=%2331A8FF" width="48" height="48" alt="Adobe Lightroom">
+      <img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="48" height="48" alt="Adobe Lightroom">
     </td>
   </tr>
 
@@ -97,7 +98,7 @@
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel">
     </td>
     <td align="center">
-      <img src="https://api.iconify.design/simple-icons:render.svg?color=%2346E3B7" width="48" height="48" alt="Render">
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify">
@@ -162,6 +163,3 @@
 கனவு செயலாக மாறும்                Dreams become action
 செயல் வெற்றியாக மாறும்."           Action becomes success."
 ```
-
-
-
